@@ -13,7 +13,7 @@ Three things show up in almost everything I work on:
 **Lately, I've been working on**
 
 - Building hands-on every day with Claude Code and Cursor, the same AI-assisted workflow I rolled out across my last org
-- **Money Agent Bench**, an open benchmark that asks whether AI agents can be trusted to act on someone's behalf when real money is involved. Results coming soon.
+- **Act or Ask**, an open benchmark for AI agent judgment: does an agent with access to your email, calendar, shopping, files, and money know when to act, when to ask first, and when to say "I don't know"? Results coming soon.
 - Thinking about what great consumer AI products look like once agents start taking actions, not just answering questions
 
 I'd rather ship a small thing and learn from it than write a long doc about a big one.
