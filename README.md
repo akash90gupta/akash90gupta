@@ -1,51 +1,32 @@
-# Akash Gupta
+<h1> Hi, I'm Akash 👋 </h1>
 
-**Product leader and builder. 15+ years taking consumer products from 0 to 1, then to scale.**
+I build consumer products that move people's money. Lately, I've been testing whether AI agents can be trusted to do the same.
 
-Ex-Ava Labs (VP, Consumer Products) · Uber · Meta · Staples · San Francisco Bay Area
+For 15+ years I've taken consumer products from 0 to 1, then to scale, at Ava Labs, Uber, Meta, and Staples. The last few years were in the least forgiving place to ship AI: a self-custody wallet, where a wrong answer costs the user real dollars and there's no undo button.
 
----
+That shaped how I think about agents. They are about to take actions with people's money. The hard problem isn't intelligence. It's trust, authorization, and reversibility.
 
-### What I believe
+**Lately, I've been working on**
 
-AI agents are about to take actions with people's money. The hard problem isn't intelligence. It's trust, authorization, and reversibility.
+- **Money Agent Bench**, an open benchmark that asks one question: would you let this AI agent touch your money? It tests frontier models on 6 failure modes: made-up numbers, acting without asking, over-refusing, trusting bad data, following instructions hidden in a transaction memo, and not knowing their limits. Results coming soon.
+- The less exciting parts that make agents safe with money: confirmation before anything irreversible, prompt-injection resistance, and saying "I'm not sure" when the data can't support an answer
+- Building hands-on every day with Claude Code and Cursor, the same AI-assisted workflow I rolled out across my last org
 
-I've shipped LLM features inside a self-custody wallet, where a wrong answer costs the user real dollars and there's no undo button. That's the lens I bring to consumer AI.
+Everything I publish here comes with the reasoning: the scope, the evals, and the calls I got wrong.
 
----
 
-### What I've built
+<h2> A bit About Me </h2>
 
-| | |
-|---|---|
-| **Core** · Ava Labs | Built the consumer fintech "everything app" from zero: **1M+ users, 500K+ monthly active, 6B+ transactions, 15% MoM growth.** Promoted twice, Director → Senior Director → VP. |
-| **LLM wallet assistant** · Ava Labs | One of the first production LLM experiences in a consumer wallet. **+15% transaction completion, 5x faster issue resolution, $500K+ saved per year.** |
-| **Growth Platform** · Uber | Unified personalization, targeting, and messaging across Mobility, Delivery, and Freight for 100M+ users. **$350M+ incremental gross bookings, 50% above goal.** |
-| **Growth experiments** · Uber | Geo-based pricing, abandoned-session recovery, and promo reminders. **$135M+ incremental gross bookings.** |
-| **ML channel selection** · Uber | Model that picks the right channel and vendor for every message. **$35M+ saved per year.** |
-| **Blueprint** · Meta | Launched Facebook's advertiser education and certification platform to **5M+ advertisers**. Personalized learning lifted ad spend **~20%**. |
-| **Staples.com rebuild** | Engineer turned PM on the same codebase. **$3M+ saved per year, 1.5x faster pages, 99.9% uptime.** |
-| **Brisk** · Founder | API-driven bookings and CRM for small businesses. **Acquired.** |
+- **VP, Consumer Products at Ava Labs.** Built Core, the consumer fintech "everything app," from zero to **1M+ users, 500K+ monthly active, and 6B+ transactions**. Shipped one of the first production LLM assistants in a consumer wallet: **+15% transaction completion, 5x faster issue resolution**. Ran a 38-person product, engineering, design, growth, and GTM org with an 8-figure P&L.
 
----
+- **Uber.** Led the Growth Platform across Mobility, Delivery, and Freight for 100M+ users: **$350M+ incremental gross bookings**, plus an ML channel-selection model saving **$35M+ a year**.
 
-### How I work
+- **Meta.** Launched Blueprint, Facebook's advertiser education and certification platform, to **5M+ advertisers**.
 
-- **Player-coach.** Ran a 38-person product, engineering, design, growth, and GTM org with an 8-figure P&L, and stayed in the specs.
-- **AI-native teams.** Rolled out Cursor, Claude-based QA, and experimentation tooling across the org. **Cycle time down 30%, no added headcount.**
-- **Engineer first.** Principal Software Engineer before PM. B.Sc. Engineering (UIUC), M.Sc. Engineering in Human Factors (Tufts, Magna Cum Laude).
-- **Experiments over opinions.** Most of the numbers above came from A/B tests, not roadmaps.
+- **Engineer first.** Principal Software Engineer at Staples before becoming a PM on the same codebase. Founded Brisk, bookings and CRM for small businesses, which was **acquired**.
 
----
+I've spoken at the Harvard Blockchain Conference and Product School, and mentored early-stage founders through First Round's Fast Track.
 
-### Elsewhere
-
-- Speaker, Harvard Blockchain Conference (2023, 2024)
-- Speaker, Product School (2019-2022)
-- Mentor to early-stage founders, First Round Fast Track (2020-2022)
-
----
-
-### Get in touch
+If you're building agents that handle money, I'd love to compare notes.
 
 📫 akash90gupta@gmail.com · [LinkedIn](https://www.linkedin.com/in/akash90gupta/)
