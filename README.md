@@ -48,4 +48,4 @@ I've shipped LLM features inside a self-custody wallet, where a wrong answer cos
 
 ### Get in touch
 
-📫 akash90gupta@gmail.com
+📫 akash90gupta@gmail.com · [LinkedIn](https://www.linkedin.com/in/akash90gupta/)
