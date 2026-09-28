@@ -1,32 +1,36 @@
 <h1> Hi, I'm Akash 👋 </h1>
 
-I build consumer products that move people's money. Lately, I've been testing whether AI agents can be trusted to do the same.
+I'm an engineer turned product leader. I build consumer products that millions of people use, and I still like building them with my own hands.
 
-For 15+ years I've taken consumer products from 0 to 1, then to scale, at Ava Labs, Uber, Meta, and Staples. The last few years were in the least forgiving place to ship AI: a self-custody wallet, where a wrong answer costs the user real dollars and there's no undo button.
+Over 15+ years I've worked across the whole arc of a product: starting from zero, finding what works, then scaling it. I've done that at Ava Labs, Uber, Meta, and Staples, and once as a founder. Along the way I've run 0 to 1 launches, growth platforms serving 100M+ users, and some of the earliest production LLM features in a consumer wallet.
 
-That shaped how I think about agents. They are about to take actions with people's money. The hard problem isn't intelligence. It's trust, authorization, and reversibility.
+Three things show up in almost everything I work on:
+
+- **0 to 1.** Taking a blank page to a product people rely on, then building the team to keep it growing
+- **Growth at scale.** Personalization, experimentation, and lifecycle systems where small lifts turn into very large numbers
+- **AI that users actually feel.** Not AI as a feature bolt-on, but LLM experiences that change whether people finish what they came to do
 
 **Lately, I've been working on**
 
-- **Money Agent Bench**, an open benchmark that asks one question: would you let this AI agent touch your money? It tests frontier models on 6 failure modes: made-up numbers, acting without asking, over-refusing, trusting bad data, following instructions hidden in a transaction memo, and not knowing their limits. Results coming soon.
-- The less exciting parts that make agents safe with money: confirmation before anything irreversible, prompt-injection resistance, and saying "I'm not sure" when the data can't support an answer
 - Building hands-on every day with Claude Code and Cursor, the same AI-assisted workflow I rolled out across my last org
+- **Money Agent Bench**, an open benchmark that asks whether AI agents can be trusted to act on someone's behalf when real money is involved. Results coming soon.
+- Thinking about what great consumer AI products look like once agents start taking actions, not just answering questions
 
-Everything I publish here comes with the reasoning: the scope, the evals, and the calls I got wrong.
+I'd rather ship a small thing and learn from it than write a long doc about a big one.
 
 
 <h2> A bit About Me </h2>
 
-- **VP, Consumer Products at Ava Labs.** Built Core, the consumer fintech "everything app," from zero to **1M+ users, 500K+ monthly active, and 6B+ transactions**. Shipped one of the first production LLM assistants in a consumer wallet: **+15% transaction completion, 5x faster issue resolution**. Ran a 38-person product, engineering, design, growth, and GTM org with an 8-figure P&L.
+- **VP, Consumer Products at Ava Labs.** Built Core, a consumer "everything app," from zero to **1M+ users and 500K+ monthly active**. Shipped one of the first production LLM assistants in a consumer wallet: **+15% transaction completion, 5x faster issue resolution**. Ran a 38-person product, engineering, design, growth, and GTM org with an 8-figure P&L. Promoted twice.
 
-- **Uber.** Led the Growth Platform across Mobility, Delivery, and Freight for 100M+ users: **$350M+ incremental gross bookings**, plus an ML channel-selection model saving **$35M+ a year**.
+- **Uber.** Led the Growth Platform that unified personalization, targeting, and messaging across Mobility, Delivery, and Freight for 100M+ users: **$350M+ incremental gross bookings**, 50% above goal.
 
-- **Meta.** Launched Blueprint, Facebook's advertiser education and certification platform, to **5M+ advertisers**.
+- **Meta.** Launched Blueprint, Facebook's advertiser education and certification platform, to **5M+ advertisers**. Personalized learning lifted ad spend **~20%**.
 
-- **Engineer first.** Principal Software Engineer at Staples before becoming a PM on the same codebase. Founded Brisk, bookings and CRM for small businesses, which was **acquired**.
+- **Engineer first.** Principal Software Engineer at Staples, then PM on the same codebase. Founded Brisk, bookings and CRM for small businesses, which was **acquired**. Engineering degrees from UIUC and Tufts.
 
 I've spoken at the Harvard Blockchain Conference and Product School, and mentored early-stage founders through First Round's Fast Track.
 
-If you're building agents that handle money, I'd love to compare notes.
+If you're building consumer products, especially ones powered by AI, I'd love to compare notes.
 
 📫 akash90gupta@gmail.com · [LinkedIn](https://www.linkedin.com/in/akash90gupta/)
