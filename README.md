@@ -1,36 +1,52 @@
-<h1> Hi, I'm Akash 👋 </h1>
+# Hi, I'm Akash 👋
 
-I'm an engineer turned product leader. I build consumer products that millions of people use, and I still like building them with my own hands.
+### I build delightful AI products that people trust. 
 
-Over 15+ years I've worked across the whole arc of a product: starting from zero, finding what works, then scaling it. I've done that at Ava Labs, Uber, Meta, and Staples, and once as a founder. Along the way I've run 0 to 1 launches, growth platforms serving 100M+ users, and some of the earliest production LLM features in a consumer wallet.
+15+ years building products at Ava Labs, Uber, Meta, and Staples. Engineer first, founder once.
 
-Three things show up in almost everything I work on:
+[LinkedIn](https://www.linkedin.com/in/akash90gupta/) • [X](https://x.com/akash90gupta) • [Email](mailto:akash90gupta@gmail.com)
 
-- **0 to 1.** Taking a blank page to a product people rely on, then building the team to keep it growing
-- **Growth at scale.** Personalization, experimentation, and lifecycle systems where small lifts turn into very large numbers
-- **AI that users actually feel.** Not AI as a feature bolt-on, but LLM experiences that change whether people finish what they came to do
+---
 
-**Lately, I've been working on**
+## Thesis
 
-- Building hands-on every day with Claude Code and Cursor, the same AI-assisted workflow I rolled out across my last org
-- **Act or Ask**, an open benchmark for AI agent judgment: does an agent with access to your email, calendar, shopping, files, and money know when to act, when to ask first, and when to say "I don't know"? Results coming soon.
-- Thinking about what great consumer AI products look like once agents start taking actions, not just answering questions
+AI agents are getting the keys to our inboxes, calendars, and bank accounts.
 
-I'd rather ship a small thing and learn from it than write a long doc about a big one.
+The ones that win won't be the smartest.
 
+They'll be the ones that know when to act, and when to ask.
 
-<h2> A bit About Me </h2>
+---
 
-- **VP, Consumer Products at Ava Labs.** Built Core, a consumer "everything app," from zero to **1M+ users and 500K+ monthly active**. Shipped one of the first production LLM assistants in a consumer wallet: **+15% transaction completion, 5x faster issue resolution**. Ran a 38-person product, engineering, design, growth, and GTM org with an 8-figure P&L. Promoted twice.
+## Current Focus
 
-- **Uber.** Led the Growth Platform that unified personalization, targeting, and messaging across Mobility, Delivery, and Freight for 100M+ users: **$350M+ incremental gross bookings**, 50% above goal.
+### 🤖 Autonomous Agents that can act safely
 
-- **Meta.** Launched Blueprint, Facebook's advertiser education and certification platform, to **5M+ advertisers**. Personalized learning lifted ad spend **~20%**.
+Judgment, permissions, and knowing which actions can't be undone.
 
-- **Engineer first.** Principal Software Engineer at Staples, then PM on the same codebase. Founded Brisk, bookings and CRM for small businesses, which was **acquired**. Engineering degrees from UIUC and Tufts.
+### 💸 Money & Commerce
 
-I've spoken at the Harvard Blockchain Conference and Product School, and mentored early-stage founders through First Round's Fast Track.
+Wallets, payments, and stablecoins, where a wrong move costs a real person.
 
-If you're building consumer products, especially ones powered by AI, I'd love to compare notes.
+### 📈 Growth & Experimentation
 
-📫 akash90gupta@gmail.com · [LinkedIn](https://www.linkedin.com/in/akash90gupta/)
+Personalization and lifecycle systems where small lifts become very large numbers.
+
+---
+
+## Career Milestones
+
+- **Ava Labs:** Built Core from 0 to **1M+ users** and **6B+ onchain transactions**; shipped an LLM wallet assistant (**+15% completion**)
+- **Uber:** Led the Growth Platform for 100M+ users; **$350M+ incremental bookings**, 50% above goal
+- **Meta:** Launched Blueprint to **5M+ advertisers**; personalized learning lifted ad spend **~20%**
+- **Staples:** Engineer turned PM; rebuilt Staples.com for **~10% higher conversion** and **$3M+ annual savings**
+- **Founder:** Built and sold Brisk, bookings and CRM for small businesses
+
+---
+
+## Principles
+
+- Earn trust before adding { AI } magic
+- Products must better the more people use it
+- Use AI where it changes the experience, not as a bolt-on
+
