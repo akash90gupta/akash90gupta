@@ -32,16 +32,6 @@ Personalization and lifecycle systems where small lifts become very large number
 
 ---
 
-## Projects
-
-### 📰 [Enough.ai](https://akash90gupta.github.io/enough.ai/): AI news, finished
-
-[![Enough.ai: what changed today at Anthropic, Google, Meta, OpenAI and xAI](https://raw.githubusercontent.com/akash90gupta/enough.ai/main/docs/banner.png)](https://akash90gupta.github.io/enough.ai/)
-
-Every morning it tells you what actually changed at Anthropic, Google, Meta, OpenAI and xAI, then it ends. Claude writes it, code checks every source, and it updates itself daily. [Code](https://github.com/akash90gupta/enough.ai)
-
----
-
 ## Career Milestones
 
 - **Ava Labs:** Built Core from 0 to **1M+ users** and **6B+ onchain transactions**; shipped an LLM wallet assistant (**+15% completion**)
