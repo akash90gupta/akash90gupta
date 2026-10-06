@@ -1,5 +1,3 @@
-<img src="assets/header.png" alt="Akash Gupta: I build delightful AI products that people trust, ones that know when to act and when to ask." width="100%">
-
 # Hi, I'm Akash 👋
 
 15+ years building products at Ava Labs, Uber, Meta, and Staples. Engineer first, founder once.
