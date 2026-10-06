@@ -1,6 +1,6 @@
-# Hi, I'm Akash 👋
+<img src="assets/header.png" alt="Akash Gupta: I build delightful AI products that people trust, ones that know when to act and when to ask." width="100%">
 
-### I build delightful AI products that people trust. 
+# Hi, I'm Akash 👋
 
 15+ years building products at Ava Labs, Uber, Meta, and Staples. Engineer first, founder once.
 
@@ -31,6 +31,16 @@ Wallets, payments, and stablecoins, where a wrong move costs a real person.
 ### 📈 Growth & Experimentation
 
 Personalization and lifecycle systems where small lifts become very large numbers.
+
+---
+
+## Projects
+
+### 📰 [Enough.ai](https://akash90gupta.github.io/enough.ai/): AI news, finished
+
+[![Enough.ai: what changed today at Anthropic, Google, Meta, OpenAI and xAI](https://raw.githubusercontent.com/akash90gupta/enough.ai/main/docs/banner.png)](https://akash90gupta.github.io/enough.ai/)
+
+Every morning it tells you what actually changed at Anthropic, Google, Meta, OpenAI and xAI, then it ends. Claude writes it, code checks every source, and it updates itself daily. [Code](https://github.com/akash90gupta/enough.ai)
 
 ---
 
